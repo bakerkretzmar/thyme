@@ -113,10 +113,10 @@ themes/your-theme-name/   # → Root of your Sage based theme
 ├── package.json          # → Node.js dependencies and scripts
 ├── resources/            # → Theme assets and templates
 │   ├── assets/           # → Front-end assets
-│   │   ├── fonts/        # → Theme fonts
-│   │   ├── images/       # → Theme images
-│   │   ├── scripts/      # → Theme javascript
-│   │   └── styles/       # → Theme stylesheets
+│   └── fonts/            # → Theme fonts
+│   └── images/           # → Theme images
+│   └── scripts/          # → Theme javascript
+│   └── css/              # → Theme styles
 │   └── views/            # → Theme templates
 │       ├── components/   # → Component templates
 │       ├── form/         # → Form templates
